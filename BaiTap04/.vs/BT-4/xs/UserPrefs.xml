@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{0F7A43E0-DEBC-ECE9-E24E-2A3729697BBB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpriteGoToLeftOrRight.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SpriteJump.cs" Line="21" Column="29" />
+      <File FileName="Assets/Scripts/SpriteGoToLeft.cs" Line="35" Column="6" />
+      <File FileName="Assets/Scripts/SpriteAddForce.cs" Line="15" Column="14" />
+      <File FileName="Assets/Scripts/SpriteGoToLeftOrRight.cs" Line="15" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
