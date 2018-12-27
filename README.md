@@ -3,4 +3,6 @@ Bài tập 03:
 - Di chuyển các đối tượng theo hướng trái, phải, lên, xuống
 - Group sort các layer
 
+![](04.gif)
+
 ![](demo.gif)
